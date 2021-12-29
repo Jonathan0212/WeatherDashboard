@@ -1,5 +1,5 @@
 # Weather Dashboard
-## This application shows you the weather using the openweather API. It includes temperature, wind speed, humidity,and uv index. 
+### This application shows you the weather using the openweather API. It includes temperature, wind speed, humidity, and uv index. 
 
 This application was created with:
 * HTML
@@ -8,4 +8,4 @@ This application was created with:
 * Javascript
 
 ![Screenshot](./Develop/weather.png)
-[Link](placeholder)
+[Link](https://jonathan0212.github.io/WeatherDashboard/)
